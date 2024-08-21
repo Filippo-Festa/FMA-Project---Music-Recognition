@@ -1,6 +1,6 @@
 # Improved Music Genre Classification with Temporal Convolutional Neural Networks
 
-This repository contains the implementation of a research project focused on improving music genre classification (MGC) using Temporal Convolutional Neural Networks (TCNNs). Traditional deep learning methods have shown promise in MGC tasks, yet they often struggle with capturing intricate temporal patterns present in music data. This project explores several innovative approaches to address these challenges:
+This repository contains the implementation of a research project focused on improving music genre classification (MGC) using Temporal Convolutional Neural Networks (TCNNs). Traditional deep learning methods have shown promise in MGC tasks, yet they often struggle with capturing intricate temporal patterns present in music data. This project explores several innovative approaches to address these challenges.
 
 ## Key Features
 
