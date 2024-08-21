@@ -12,7 +12,7 @@ This repository contains the implementation of a research project focused on imp
 
 ## FMA Dataset
 
-The implementation builds upon the **FMA (Free Music Archive) dataset**, a public dataset containing a rich variety of music tracks. The FMA dataset is well-suited for music information retrieval tasks, including genre classification, and is widely used in the research community due to its diversity and scale.
+The implementation builds upon the [**FMA (Free Music Archive) dataset**](https://github.com/mdeff/fma), a public dataset containing a rich variety of music tracks. The FMA dataset is well-suited for music information retrieval tasks, including genre classification, and is widely used in the research community due to its diversity and scale.
 
 ## Research Outcomes
 
