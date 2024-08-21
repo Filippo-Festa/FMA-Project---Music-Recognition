@@ -18,4 +18,4 @@ The implementation builds upon the [**FMA (Free Music Archive) dataset**](https:
 
 Although some results are partial and not fully satisfactory, the approach shows potential, particularly in applications beyond music genre classification, such as speech recognition and video analysis.
 
-For more details on the methodology and results, please refer to the associated [research paper]([https://github.com/Filippo-Festa/Improved-Music-Genre-Classification-with-Temporal-Convolutional-Neural-Networks](https://github.com/Filippo-Festa/Improved-Music-Genre-Classification-with-Temporal-Convolutional-Neural-Networks/blob/main/Improved%20Music%20Genre%20Classification%20with%20Temporal%20Convolutional%20Neural%20Networks.pdf)).
+For more details on the methodology and results, please refer to the associated [research paper](https://github.com/Filippo-Festa/Improved-Music-Genre-Classification-with-Temporal-Convolutional-Neural-Networks/blob/main/Improved%20Music%20Genre%20Classification%20with%20Temporal%20Convolutional%20Neural%20Networks.pdf).
