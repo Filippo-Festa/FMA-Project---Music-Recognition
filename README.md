@@ -1,1 +1,1 @@
-# FMA-Project---Music-Recognition
+# Improved Music Genre Classification with Temporal Convolutional Neural Networks
